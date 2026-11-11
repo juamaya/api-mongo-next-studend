@@ -1,4 +1,4 @@
-
+# Proyecto FullStack
 # 🎓 Student Manager - Next.js & MongoDB
 
 Aplicación web para gestionar estudiantes mediante un CRUD completo (Create, Read, Update, Delete), desarrollada con Next.js, React, MongoDB y Tailwind CSS.
